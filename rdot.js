@@ -1,1 +1,1 @@
-alert('RDOT');
+console.log('RDOT');
